@@ -23,6 +23,7 @@
 	</developers>
 	<modules>
 		<module>kafka-producer-wikimedia</module>
+		<module>kafka-consumer-database</module>
 	</modules>
 	<scm>
 		<connection/>

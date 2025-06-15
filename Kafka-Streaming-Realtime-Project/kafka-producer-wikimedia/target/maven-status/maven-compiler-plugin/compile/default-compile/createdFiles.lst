@@ -1,1 +1,4 @@
+com/ygn/kafkaProject/WikimediaChangesHandler.class
+com/ygn/kafkaProject/KafkaTopicConfig.class
 com/ygn/kafkaProject/SpringBootProducerApplication.class
+com/ygn/kafkaProject/WikimediaChangesProducer.class

@@ -1,1 +1,4 @@
-/home/lenovo/Desktop/Kafka-Streaming-Realtime-Project/kafka-producer-wikimedia/src/main/java/com/ygn/kafkaProject/SpringBootProducerApplication.java
+/home/lenovo/Desktop/Kafka-Streaming-Realtime-Project-clean/Kafka-Streaming-Realtime-Project/kafka-producer-wikimedia/src/main/java/com/ygn/kafkaProject/KafkaTopicConfig.java
+/home/lenovo/Desktop/Kafka-Streaming-Realtime-Project-clean/Kafka-Streaming-Realtime-Project/kafka-producer-wikimedia/src/main/java/com/ygn/kafkaProject/SpringBootProducerApplication.java
+/home/lenovo/Desktop/Kafka-Streaming-Realtime-Project-clean/Kafka-Streaming-Realtime-Project/kafka-producer-wikimedia/src/main/java/com/ygn/kafkaProject/WikimediaChangesHandler.java
+/home/lenovo/Desktop/Kafka-Streaming-Realtime-Project-clean/Kafka-Streaming-Realtime-Project/kafka-producer-wikimedia/src/main/java/com/ygn/kafkaProject/WikimediaChangesProducer.java
